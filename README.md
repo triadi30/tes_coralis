@@ -5,3 +5,7 @@
 2. Silahkan mendaftar akun
 3. Lalu verifikasi akun melalui link yang diberikan pada email yang sudah didaftarkan
 4. Selanjutnya login
+
+## Database
+- Database Name : sistemlogin2.sql
+- Silahkan import database sistemlogin2.sql
